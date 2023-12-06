@@ -7957,7 +7957,7 @@ table tbody > tr:nth-child(odd) > th {
 
 .jltma-nav-menu__container > ul li.menu-item-has-children:not(.jltma-menu-has-children) > a:after {
   content: "";
-  background-image: url("./../images/symbols.svg");
+  background-image: url("/wp-content/plugins/master-addons/assets/images/symbols.svg");
   background-repeat: no-repeat;
   display: block;
   width: 11px;
@@ -9318,7 +9318,7 @@ html.jltma-vertical-menu-type-mobile.jltma-vertical-menu-type-side .elementor-wi
 }
 
 .jltma-nav-menu__container .jltma-nav-menu__container-inner .jltma-submenu-indicator {
-  background-image: url("./../images/symbols.svg");
+  background-image: url("/wp-content/plugins/master-addons/assets/images/symbols.svg");
   background-repeat: no-repeat;
   display: block;
   width: 11px;
@@ -10237,13 +10237,13 @@ blockquote.jltma-blockquote cite:before {
   background-position: center center;
 }
 .jltma-preloading.jltma-simple-spinner {
-  background-image: url(./../images/spinner-default.svg);
+  background-image: url(/wp-content/plugins/master-addons/assets/images/spinner-default.svg);
 }
 .jltma-preloading.jltma-simple-spinner-light {
-  background-image: url(./../images/spinner-light.svg);
+  background-image: url(/wp-content/plugins/master-addons/assets/images/spinner-light.svg);
 }
 .jltma-preloading.jltma-simple-spinner-dark {
-  background-image: url(./../images/spinner-dark.svg);
+  background-image: url(/wp-content/plugins/master-addons/assets/images/spinner-dark.svg);
 }
 
 .jltma-preloaded.jltma-blank {

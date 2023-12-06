@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentários sobre: Replicação de Dados entre 2 Containers do Azure de Forma Automática e Flexível	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="/replicacao-de-dados-entre-2-containers-do-azure-de-forma-automatica-e-flexivel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Meu Portfólio</description>
-	<lastBuildDate>Wed, 10 May 2023 02:05:58 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Sep 2023 02:43:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=5.9.8</generator>
 </channel>
 </rss>
